@@ -2,8 +2,8 @@ name: 4Ball
 main: ForBall\Main
 api: 3.0.0 
 version: 2.0.0
-author: Tihiy DDOSER MelonTeam
+author: Tihiy DDOSER
 commands:
  4b:
-  description: 4Ball new top game
+  description: 4Ball
   default: true
