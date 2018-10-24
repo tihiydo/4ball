@@ -5,3 +5,9 @@
 4Ball is a simple and easy mini game.</br>
 Become a member of the creation of a new legendary mini-game.
 <h6>
+</br>
+</br>
+<h2> Information </h2>
+<h6>
+  Before installing the plugin you must install the map
+</h6>
